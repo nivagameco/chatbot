@@ -1,0 +1,65 @@
+[
+    {
+        "key": "sb",
+        "value": "bdxYZY-wWW2I5n2_oM3EMqiH",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-11-23T13:34:55.156Z",
+        "lastAccessed": "2023-11-23T13:34:55.156Z"
+    },
+    {
+        "key": "wd",
+        "value": "1366x651",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-11-23T13:34:55.156Z",
+        "lastAccessed": "2023-11-23T13:34:55.156Z"
+    },
+    {
+        "key": "datr",
+        "value": "HAZeZT--e5-5dTtZ8-YCnure",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-11-23T13:34:55.156Z",
+        "lastAccessed": "2023-11-23T13:34:55.156Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100094618923023",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-11-23T13:34:55.156Z",
+        "lastAccessed": "2023-11-23T13:34:55.156Z"
+    },
+    {
+        "key": "xs",
+        "value": "3%3ABx6U6iRkDWxT1w%3A2%3A1700746405%3A-1%3A6260",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-11-23T13:34:55.156Z",
+        "lastAccessed": "2023-11-23T13:34:55.156Z"
+    },
+    {
+        "key": "fr",
+        "value": "1Tt3pcLl3O3uLdPSc.AWVcE_FkEWaOEF02GkoAagpQGOs.BlX1SV.dK.AAA.0.0.BlX1Sm.AWVwK6zaATI",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-11-23T13:34:55.156Z",
+        "lastAccessed": "2023-11-23T13:34:55.156Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100089048012554%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22g.24985108197754692%22%7D%5D%2C%22utc3%22%3A1700746446304%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-11-23T13:34:55.156Z",
+        "lastAccessed": "2023-11-23T13:34:55.156Z"
+    }
+]
